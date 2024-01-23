@@ -171,3 +171,4 @@ test/js.done
 testing
 zig-cache
 zig-out
+/builds/msvc/vs2022/.vs/libsodium
